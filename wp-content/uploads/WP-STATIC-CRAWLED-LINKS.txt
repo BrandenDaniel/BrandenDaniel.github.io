@@ -2,8 +2,8 @@
 /2020/02/12/hello-world/
 /category/uncategorized/
 /category/uncategorized/page/1
-/kampung-story/2020/02/12/hello-world/
-/kampung-story/sample-page/
+/new-funk/2020/02/12/hello-world/
+/new-funk/sample-page/
 /page/1
 /sample-page/
 /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css

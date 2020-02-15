@@ -1,4 +1,4 @@
-# kampung-story
+# new-funk
 
 Our sambal sauce wordpress site.
 

@@ -2,13 +2,13 @@
 PHP VERSION 7.3.8
 OS VERSION Windows NT DESKTOP-RU44AA8 10.0 build 17763 (Windows 10) AMD64
 WP VERSION 5.3.2
-WP URL http://localhost/kampung-story
-WP SITEURL http://localhost/kampung-story
-WP HOME http://localhost/kampung-story
-WP ADDRESS http://localhost/kampung-story
+WP URL http://localhost/new-funk
+WP SITEURL http://localhost/new-funk
+WP HOME http://localhost/new-funk
+WP ADDRESS http://localhost/new-funk
 PLUGIN VERSION 6.6.7
 VIA WP-CLI? 
-STATIC EXPORT URL http://localhost/kampung-story/
+STATIC EXPORT URL http://localhost/new-funk/
 PERMALINK STRUCTURE /%year%/%monthnum%/%day%/%postname%/
 SERVER SOFTWARE Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.8
 Active plugins:
@@ -144,7 +144,7 @@ Adding discovered URL: /category/uncategorized/
 Adding discovered URL: /2020/02/12/hello-world/
 Adding discovered URL: /author/ks_story/
 Adding discovered URL: /2020/02/
-SAVING / to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/index.html
+SAVING / to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /2020/02/12/hello-world/
@@ -163,7 +163,7 @@ Adding discovered URL: /sample-page/
 Adding discovered URL: /category/uncategorized/
 Adding discovered URL: /author/ks_story/
 Adding discovered URL: /2020/02/
-SAVING /2020/02/12/hello-world/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/2020/02/12/hello-world/index.html
+SAVING /2020/02/12/hello-world/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/2020/02/12/hello-world/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /category/uncategorized/
@@ -181,7 +181,7 @@ Adding discovered URL: /category/uncategorized/
 Adding discovered URL: /2020/02/12/hello-world/
 Adding discovered URL: /author/ks_story/
 Adding discovered URL: /2020/02/
-SAVING /category/uncategorized/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/category/uncategorized/index.html
+SAVING /category/uncategorized/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/category/uncategorized/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /category/uncategorized/page/1
@@ -199,30 +199,30 @@ Adding discovered URL: /category/uncategorized/
 Adding discovered URL: /2020/02/12/hello-world/
 Adding discovered URL: /author/ks_story/
 Adding discovered URL: /2020/02/
-SAVING /category/uncategorized/page/1 to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/category/uncategorized/page/1/index.html
+SAVING /category/uncategorized/page/1 to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/category/uncategorized/page/1/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /favicon.ico
 BAD RESPONSE STATUS (404): /favicon.ico
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
-Crawling /kampung-story/
-BAD RESPONSE STATUS (404): /kampung-story/
+Crawling /new-funk/
+BAD RESPONSE STATUS (404): /new-funk/
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
-Crawling /kampung-story/2020/
-BAD RESPONSE STATUS (404): /kampung-story/2020/
+Crawling /new-funk/2020/
+BAD RESPONSE STATUS (404): /new-funk/2020/
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
-Crawling /kampung-story/2020/02/
-BAD RESPONSE STATUS (404): /kampung-story/2020/02/
+Crawling /new-funk/2020/02/
+BAD RESPONSE STATUS (404): /new-funk/2020/02/
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
-Crawling /kampung-story/2020/02/12/
-BAD RESPONSE STATUS (404): /kampung-story/2020/02/12/
+Crawling /new-funk/2020/02/12/
+BAD RESPONSE STATUS (404): /new-funk/2020/02/12/
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
-Crawling /kampung-story/2020/02/12/hello-world/
+Crawling /new-funk/2020/02/12/hello-world/
 Adding discovered URL: /feed/
 Adding discovered URL: /comments/feed/
 Adding discovered URL: /2020/02/12/hello-world/feed/
@@ -238,10 +238,10 @@ Adding discovered URL: /sample-page/
 Adding discovered URL: /category/uncategorized/
 Adding discovered URL: /author/ks_story/
 Adding discovered URL: /2020/02/
-SAVING /kampung-story/2020/02/12/hello-world/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/kampung-story/2020/02/12/hello-world/index.html
+SAVING /new-funk/2020/02/12/hello-world/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/new-funk/2020/02/12/hello-world/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
-Crawling /kampung-story/sample-page/
+Crawling /new-funk/sample-page/
 Adding discovered URL: /feed/
 Adding discovered URL: /comments/feed/
 Adding discovered URL: /sample-page/feed/
@@ -257,7 +257,7 @@ Adding discovered URL: /wp-admin/
 Adding discovered URL: /2020/02/12/hello-world/
 Adding discovered URL: /2020/02/
 Adding discovered URL: /category/uncategorized/
-SAVING /kampung-story/sample-page/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/kampung-story/sample-page/index.html
+SAVING /new-funk/sample-page/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/new-funk/sample-page/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /page/1
@@ -274,7 +274,7 @@ Adding discovered URL: /category/uncategorized/
 Adding discovered URL: /2020/02/12/hello-world/
 Adding discovered URL: /author/ks_story/
 Adding discovered URL: /2020/02/
-SAVING /page/1 to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/page/1/index.html
+SAVING /page/1 to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/page/1/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /pages/page/1
@@ -301,7 +301,7 @@ Adding discovered URL: /wp-admin/
 Adding discovered URL: /2020/02/12/hello-world/
 Adding discovered URL: /2020/02/
 Adding discovered URL: /category/uncategorized/
-SAVING /sample-page/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/\/sample-page/index.html
+SAVING /sample-page/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/\/sample-page/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /sitemap.xml
@@ -309,111 +309,111 @@ BAD RESPONSE STATUS (404): /sitemap.xml
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css
-SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\css/editor-style-block-rtl.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\css/editor-style-block-rtl.css
 Memory allocated by crawl script: 6144
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-block.css
-SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block.css to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\css/editor-style-block.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block.css to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\css/editor-style-block.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css
-SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\css/editor-style-classic-rtl.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\css/editor-style-classic-rtl.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css
-SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\css/editor-style-classic.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\css/editor-style-classic.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2
-SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2 to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-italic-var.woff2
+SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2 to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-italic-var.woff2
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2
-SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2 to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-upright-var.woff2
+SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2 to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-upright-var.woff2
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-landscape-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-landscape-1.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-landscape-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-landscape-2.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-square-1.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-1.png to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-square-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-1.png to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-square-1.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-square-2.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-2.png to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-square-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-2.png to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-square-2.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-1.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-2.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-3.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-3.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png
-SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-4.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-4.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\color-calculations.js
-SAVING /wp-content/themes/twentytwenty\assets\js\color-calculations.js to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/color-calculations.js
+SAVING /wp-content/themes/twentytwenty\assets\js\color-calculations.js to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/color-calculations.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\customize-controls.js
-SAVING /wp-content/themes/twentytwenty\assets\js\customize-controls.js to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/customize-controls.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize-controls.js to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/customize-controls.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\customize-preview.js
-SAVING /wp-content/themes/twentytwenty\assets\js\customize-preview.js to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/customize-preview.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize-preview.js to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/customize-preview.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\customize.js
-SAVING /wp-content/themes/twentytwenty\assets\js\customize.js to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/customize.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize.js to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/customize.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\editor-script-block.js
-SAVING /wp-content/themes/twentytwenty\assets\js\editor-script-block.js to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/editor-script-block.js
+SAVING /wp-content/themes/twentytwenty\assets\js\editor-script-block.js to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/editor-script-block.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\index.js
-SAVING /wp-content/themes/twentytwenty\assets\js\index.js to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/index.js
+SAVING /wp-content/themes/twentytwenty\assets\js\index.js to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/index.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js
-SAVING /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/skip-link-focus-fix.js
+SAVING /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty\assets\js/skip-link-focus-fix.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\package-lock.json
-SAVING /wp-content/themes/twentytwenty\package-lock.json to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/package-lock.json
+SAVING /wp-content/themes/twentytwenty\package-lock.json to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/package-lock.json
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\print.css
-SAVING /wp-content/themes/twentytwenty\print.css to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/print.css
+SAVING /wp-content/themes/twentytwenty\print.css to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/print.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\screenshot.png
-SAVING /wp-content/themes/twentytwenty\screenshot.png to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/screenshot.png
+SAVING /wp-content/themes/twentytwenty\screenshot.png to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/screenshot.png
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\style-rtl.css
-SAVING /wp-content/themes/twentytwenty\style-rtl.css to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/style-rtl.css
+SAVING /wp-content/themes/twentytwenty\style-rtl.css to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/style-rtl.css
 Memory allocated by crawl script: 10240
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty\style.css
-SAVING /wp-content/themes/twentytwenty\style.css to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/style.css
+SAVING /wp-content/themes/twentytwenty\style.css to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/style.css
 Memory allocated by crawl script: 6144
 Exclusion rules wp-json
 Crawling /wp-content/uploads/
-SAVING /wp-content/uploads/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/uploads/index.html
+SAVING /wp-content/uploads/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/uploads/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /2020/02/
@@ -430,11 +430,11 @@ Adding discovered URL: /category/uncategorized/
 Adding discovered URL: /2020/02/12/hello-world/
 Adding discovered URL: /author/ks_story/
 Adding discovered URL: /2020/02/
-SAVING /2020/02/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/2020/02/index.html
+SAVING /2020/02/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/2020/02/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /2020/02/12/hello-world/feed/
-SAVING /2020/02/12/hello-world/feed/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/2020/02/12/hello-world/feed/index.html
+SAVING /2020/02/12/hello-world/feed/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/2020/02/12/hello-world/feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /author/ks_story/
@@ -452,23 +452,23 @@ Adding discovered URL: /category/uncategorized/
 Adding discovered URL: /2020/02/12/hello-world/
 Adding discovered URL: /author/ks_story/
 Adding discovered URL: /2020/02/
-SAVING /author/ks_story/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/author/ks_story/index.html
+SAVING /author/ks_story/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/author/ks_story/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /category/uncategorized/feed/
-SAVING /category/uncategorized/feed/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/category/uncategorized/feed/index.html
+SAVING /category/uncategorized/feed/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/category/uncategorized/feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /comments/feed/
-SAVING /comments/feed/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/comments/feed/index.html
+SAVING /comments/feed/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/comments/feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /feed/
-SAVING /feed/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/\/feed/index.html
+SAVING /feed/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/\/feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /sample-page/feed/
-SAVING /sample-page/feed/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/sample-page/feed/index.html
+SAVING /sample-page/feed/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/sample-page/feed/index.html
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-admin/
@@ -485,23 +485,23 @@ Adding discovered URL: /wp-admin/js/password-strength-meter.min.js
 Adding discovered URL: /wp-includes/js/underscore.min.js
 Adding discovered URL: /wp-includes/js/wp-util.min.js
 Adding discovered URL: /wp-admin/js/user-profile.min.js
-SAVING /wp-admin/ to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/\/wp-admin/index.html
+SAVING /wp-admin/ to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/\/wp-admin/index.html
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty/assets/js/index.js
-SAVING /wp-content/themes/twentytwenty/assets/js/index.js to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/assets/js/index.js
+SAVING /wp-content/themes/twentytwenty/assets/js/index.js to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/assets/js/index.js
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty/print.css
-SAVING /wp-content/themes/twentytwenty/print.css to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/print.css
+SAVING /wp-content/themes/twentytwenty/print.css to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/print.css
 Memory allocated by crawl script: 4096
 Exclusion rules wp-json
 Crawling /wp-content/themes/twentytwenty/style.css
-SAVING /wp-content/themes/twentytwenty/style.css to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/style.css
+SAVING /wp-content/themes/twentytwenty/style.css to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-content/themes/twentytwenty/style.css
 Memory allocated by crawl script: 10240
 Exclusion rules wp-json
 Crawling /wp-includes/css/dist/block-library/style.min.css
-SAVING /wp-includes/css/dist/block-library/style.min.css to C:\\xampp\\htdocs\\kampung-story/wp-content/uploads/wp-static-html-output-1581681676/wp-includes/css/dist/block-library/style.min.css
+SAVING /wp-includes/css/dist/block-library/style.min.css to C:\\xampp\\htdocs\\new-funk/wp-content/uploads/wp-static-html-output-1581681676/wp-includes/css/dist/block-library/style.min.css
 Memory allocated by crawl script: 2048
 Exclusion rules wp-json
 Excluding /wp-json/ because of rule wp-json
