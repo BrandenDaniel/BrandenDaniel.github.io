@@ -1,3 +1,7 @@
 body {
-    background: red !important;
+    // background: red !important;
+}
+
+#site-content {
+    min-height: calc(100vh - 116px);
 }
