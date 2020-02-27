@@ -1,6 +1,0 @@
-/
-/BrandenDaniel.github.io/
-/favicon.ico
-/pages/page/1
-/robots.txt
-/sitemap.xml
