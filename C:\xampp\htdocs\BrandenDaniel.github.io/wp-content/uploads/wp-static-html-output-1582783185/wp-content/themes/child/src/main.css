@@ -1,0 +1,4 @@
+#site-content {min-height: calc(100vh - 116px);}
+.header-titles-wrapper {width: 100%;max-width: 100% !important;margin: 0 !important;}
+.header-titles {max-width: 100%;width: 100%;margin: 0 !important;justify-content: center !important;}
+.header-titles img {height: 60px;}
