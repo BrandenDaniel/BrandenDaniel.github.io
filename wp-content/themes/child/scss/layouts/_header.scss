@@ -1,16 +1,36 @@
-.header-titles-wrapper {
-    width: 100%;
-    max-width: 100% !important;
-    margin: 0 !important;
-}
+.site-header--homepage {
+    background: transparent !important;
+    
+    .container-fluid--header {
+        padding: 40px 60px;
+        display: none;
+    }
 
-.header-titles {
-    max-width: 100%;
-    width: 100%;
-    margin: 0 !important;
-    justify-content: center !important;
+    .header-titles-wrapper {
+        width: 100%;
+        max-width: 100% !important;
+        margin: 0 !important;
+    }
 
-    img {
-        height: 60px;
+    .header-titles {
+        max-width: 100%;
+        width: 100%;
+        margin: 0 !important;
+    
+        img {
+            height: 60px;
+        }
+    
+        h1 {
+            margin: 0 !important;
+            line-height: 1;
+            font-size: 40px;
+            color: #204D6D;
+            font-weight: 500 !important;
+        }
     }
 }
+
+
+
+

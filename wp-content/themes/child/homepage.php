@@ -10,7 +10,9 @@
 get_header(); ?>
 
 
-<main id="site-content" role="main">
+<main id="site-content" class="site-content--homepage" role="main">
+
+	<?php get_template_part( 'template-parts/homepage-content', get_post_type() ); ?>
 
 	<?php
 
@@ -26,5 +28,6 @@ get_header(); ?>
 	?>
 
 </main><!-- #site-content -->
+
 
 <?php get_footer(); ?>
