@@ -1,6 +1,6 @@
 body {
     // background: red !important;
-    font-family: 'Shadows Into Light' !important;
+    // font-family: 'Shadows Into Light' !important;
 }
 
 .container--homepage-content {
@@ -11,7 +11,7 @@ body {
 }
 
 .site-content--homepage {
-    margin: 0;
+    margin: -105px 0 0 0;
 }
 
 .video-container {
@@ -21,6 +21,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    z-index: -1;
 
     video {
         position: absolute;
@@ -36,11 +37,29 @@ body {
     h1 {
         color: #fff;
         padding: 0 0 0px 0;
-        font-size: 6em;
-        border: 5px solid #fff;
-        padding: 16px 20px 13px 20px;
+        font-size: 6.25rem;
+        padding: 10px;
         margin: 0;
+        line-height: 1.4;
         letter-spacing: 2px;
+        font-family: 'Chelsea Market', sans-serif;
+        text-align: center;
 
+        .brand {
+            color: #fff;
+            font-size: 14rem;
+        }
+
+        .hot {
+            color: #f27d0c;
+            font-size: 17rem;
+        }
+
+        @media(max-width: 575px) {
+            font-size: 5rem !important;
+            span {
+                font-size: 5rem !important;
+            }
+        }
     }
 }

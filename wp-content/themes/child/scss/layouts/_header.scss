@@ -3,7 +3,7 @@
     
     .container-fluid--header {
         padding: 40px 60px;
-        display: none;
+        // display: none;
     }
 
     .header-titles-wrapper {
@@ -24,9 +24,11 @@
         h1 {
             margin: 0 !important;
             line-height: 1;
-            font-size: 40px;
-            color: #204D6D;
+            font-size: 2.5rem;
+            color: #fff;
             font-weight: 500 !important;
+            font-family: 'Chelsea Market', sans-serif;
+
         }
     }
 }
