@@ -8,6 +8,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
 
 		<link rel="profile" href="https://gmpg.org/xfn/11">
+		<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
 		<title>Uncle Funk</title>
 <link rel='dns-prefetch' href='//s.w.org' />
@@ -58,9 +60,9 @@ img.emoji {
 	<body class="home page-template page-template-homepage page-template-homepage-php page page-id-2 singular enable-search-modal missing-post-thumbnail has-no-pagination not-showing-comments show-avatars homepage footer-top-visible">
 
 		<a class="skip-link screen-reader-text" href="#site-content">Skip to the content</a>
-		<header id="site-header" class="header-footer-group" role="banner">
+		<header id="site-header" class="header-footer-group site-header--homepage" role="banner">
 
-			<div class="header-inner section-inner">
+			<div class="container-fluid container-fluid--header">
 
 				<div class="header-titles-wrapper">
 
@@ -75,7 +77,8 @@ img.emoji {
 
 					
 					<div class="header-titles">
-						<img src="wp-content/themes/child/src/img/logo.png" alt="Uncle Funk">
+						<!-- <img src="./wp-content/themes/child/src/img/logo.png" alt="Uncle Funk"> -->
+						<h1>uncle funk</h1>
 					</div><!-- .header-titles -->
 
 					<button class="toggle nav-toggle mobile-nav-toggle" data-toggle-target=".menu-modal"  data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".close-nav-toggle">
@@ -156,27 +159,27 @@ img.emoji {
 </div><!-- .menu-modal -->
 
 
-<main id="site-content" role="main">
+<main id="site-content" class="site-content--homepage" role="main">
 
+	
+<div class="video-container">
+    <video loop="loop" muted="muted" autoplay="autoplay" playsinline="" class="landing-background-video"><source type="video/mp4" src="wp-content\themes\child\src\video\placeholder-video.mp4"></video>
+    <h1>uncle funk</h1>
+</div>
+
+<div class="container container--homepage-content">
+
+</div>
 	
 <article class="post-2 page type-page status-publish hentry" id="post-2">
 
 	
-<header class="entry-header has-text-align-center header-footer-group">
-
-	<div class="entry-header-inner section-inner medium">
-
-		<h1 class="entry-title">Home page</h1>
-	</div><!-- .entry-header-inner -->
-
-</header><!-- .entry-header -->
-
 	<div class="post-inner thin ">
 
 		<div class="entry-content">
 
 			
-<div role="form" class="wpcf7" id="wpcf7-f10-p2-o1" lang="en-US" dir="ltr">
+<p style="background-color:#ffffff" class="has-background"><div role="form" class="wpcf7" id="wpcf7-f10-p2-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"></div>
 <form action="/BrandenDaniel.github.io/#wpcf7-f10-p2-o1" method="post" class="wpcf7-form" novalidate="novalidate">
 <div style="display: none;">
@@ -195,7 +198,7 @@ img.emoji {
 <p><label> Your Message<br />
     <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
 <p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
-<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></p>
 
 		</div><!-- .entry-content -->
 
@@ -209,6 +212,7 @@ img.emoji {
 </article><!-- .post -->
 
 </main><!-- #site-content -->
+
 
 			<footer id="site-footer" role="contentinfo" class="header-footer-group">
 
@@ -249,5 +253,8 @@ var wpcf7 = {"apiSettings":{"root":"http:\/\/localhost\/brandendaniel.github.io\
 	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 	</script>
 	
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 	</body>
 </html>
