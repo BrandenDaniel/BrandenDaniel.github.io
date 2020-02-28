@@ -38,12 +38,13 @@ body {
         color: #fff;
         padding: 0 0 0px 0;
         font-size: 6.25rem;
-        padding: 10px;
+        padding: 20px;
         margin: 0;
         line-height: 1.4;
         letter-spacing: 2px;
         font-family: 'Chelsea Market', sans-serif;
         text-align: center;
+        max-width: 900px;
 
         .brand {
             color: #fff;
@@ -55,10 +56,21 @@ body {
             font-size: 17rem;
         }
 
+        @media(max-width: 768px) {
+
+            .brand {
+                font-size: 11rem;
+            }
+        }
+
         @media(max-width: 575px) {
-            font-size: 5rem !important;
+            font-size: 3rem !important;
+            .brand {
+                font-size: 5.5rem !important;
+            }
+
             span {
-                font-size: 5rem !important;
+                font-size: 3rem;
             }
         }
     }
