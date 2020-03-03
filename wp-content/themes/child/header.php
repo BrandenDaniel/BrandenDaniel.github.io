@@ -62,4 +62,4 @@
 
 		<?php
 		// Output the menu modal.
-		get_template_part( 'template-parts/modal-menu' );
+		// get_template_part( 'template-parts/modal-menu' );

@@ -11,7 +11,7 @@ body {
 }
 
 .site-content--homepage {
-    margin: -105px 0 0 0;
+    margin: -135px 0 0 0;
 }
 
 .video-container {
@@ -21,7 +21,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    z-index: -1;
+    // z-index: -1;
 
     video {
         position: absolute;
@@ -35,7 +35,7 @@ body {
     }
 
     h1 {
-        color: #fff;
+        color: #FFEF6B;
         padding: 0 0 0px 0;
         font-size: 6.25rem;
         padding: 20px;
@@ -44,34 +44,32 @@ body {
         letter-spacing: 2px;
         font-family: 'Chelsea Market', sans-serif;
         text-align: center;
-        max-width: 900px;
+        max-width: 700px;
+        // margin-bottom: 10%;
 
-        .brand {
-            color: #fff;
-            font-size: 14rem;
-        }
+        span {
+            color: #FF7A64;
+            position: relative;
+            // display: inline-block;
 
-        .hot {
-            color: #f27d0c;
-            font-size: 17rem;
+            // &::after {
+            //     content: "";
+            //     display: block;
+            //     height: 3px;
+            //     width: 100%;
+            //     background: #FFEF6B;
+            //     position: absolute;
+            //     left: 0;
+            //     bottom: 0;
+            // }
         }
 
         @media(max-width: 768px) {
 
-            .brand {
-                font-size: 11rem;
-            }
         }
 
         @media(max-width: 575px) {
-            font-size: 3rem !important;
-            .brand {
-                font-size: 5.5rem !important;
-            }
-
-            span {
-                font-size: 3rem;
-            }
+            font-size: 5rem;
         }
     }
 }
